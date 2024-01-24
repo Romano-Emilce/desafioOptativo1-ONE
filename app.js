@@ -18,9 +18,9 @@ let saldoDisponible = 1000;
 
 //Declara una variable llamada mensajeDeError y asígnale el valor "¡Error! Completa todos los campos". 
 let mensajeDeError = '¡Error! Completa todos los campos';
-
 //Ahora muestra una alerta con el valor de la variable mensajeDeError .
 alert(mensajeDeError);
+
 //Utiliza un prompt para preguntar el nombre del usuario y almacénalo en la variable nombre .
 nombre = prompt('¿Cómo te llamas?')
 
